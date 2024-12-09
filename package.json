@@ -1,0 +1,12 @@
+{
+  "name": "musicline-parser",
+  "version": "0.0.0",
+  "description": "Parses and validates Musicline files.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orfeolang/musicline-parser.git"
+  },
+  "author": "Pierre-Emmanuel Lévesque <pierre.e.levesque@gmail.com>",
+  "license": "MIT"
+}
